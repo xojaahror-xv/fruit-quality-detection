@@ -1,0 +1,6 @@
+﻿# Fayllar GitHub'ga yuklanmasin
+venv/
+data/
+__pycache__/
+*.pyc
+.env
